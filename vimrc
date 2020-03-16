@@ -1,9 +1,21 @@
-"Set line numbers
-set number
+"---UI settings---
+set cursorline "highlight the current line
+set number "Set line numbers
+set showcmd "show command in bottom bar
+set wildmenu "visual autocomplete 
+set foldenable "enable code folding
 
 
-"highlight the current line
-set cursorline
+
+
+"---Moving around
+
+
+
+
+"----Shortcuts
+imap ;; <Esc>
+
 
 
 "Reset NERDTree Toggle
@@ -19,6 +31,13 @@ set termguicolors
 set background=dark
 colorscheme solarized8
 syntax on
+
+
+
+"Python settings
+set tabstop=4
+set softtabstop=4
+set expandtab "tabs are spaces
 
 
 
