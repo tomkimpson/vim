@@ -1,0 +1,3 @@
+[submodule "/Users/tomkimpson/.vim/pack/TK1/start/nerdtree"]
+	path = /Users/tomkimpson/.vim/pack/TK1/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
