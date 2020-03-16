@@ -1,3 +1,6 @@
 [submodule "/Users/tomkimpson/.vim/pack/TK1/start/nerdtree"]
 	path = /Users/tomkimpson/.vim/pack/TK1/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "/Users/tomkimpson/.vim/pack/TK1/start/solarized8"]
+	path = /Users/tomkimpson/.vim/pack/TK1/start/solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
