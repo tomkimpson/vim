@@ -9,7 +9,7 @@ It is even awesome-r via the use of a souped up `vimrc`. Installation is below.
 ### Installation
 To install first clone this repo:
 
-    git clone --depth 1 https://github.com/tomkimpson/vim.git
+    git clone --depth 1 https://github.com/tomkimpson/vim.git .vim/
 
 This will give you the `vimrc` and directory structure. You will notice that the plugin folders are empty. This is on account of the [git submodule stucture](https://git-scm.com/book/en/v2/Git-Tools-Submodules), since the plugins exist in other git repos with their own updates. To get the most recent versions, simply call on `.gitmodules` as,
 
