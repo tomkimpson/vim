@@ -29,9 +29,10 @@ VIM now has native plugin support via github. To add new packages:
 [see here](https://shaeshed.com/vim-packages/) for more useful info
 
 
+### Troubleshooting
+
+If your background colors look werid with the `solarized` theme, try removing some of the additional settings in the `"colorscheme` section of the `vimrc`. In particular, try just setting the colorscheme `colorscheme solarized8`, removing xterm-color settings
 
 
-
-### Useful VIM commands
 
 ...
