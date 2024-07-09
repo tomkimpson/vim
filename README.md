@@ -17,6 +17,8 @@ This will give you the `vimrc` and directory structure. You will notice that the
     git submodule update
 
 
+**Attention:** make sure to call these commands inside the `.vim/` directory!
+
 ### Adding packages
 
 VIM now has native plugin support via github. To add new packages:
